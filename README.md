@@ -1,110 +1,182 @@
- ## SHREEJAA G
+# SHREEJAA G
 
-**Computer Science Student | Software Developer | AI & Machine Learning Enthusiast**
+**Computer Science Student | Full-Stack Developer | AI & Machine Learning Enthusiast**
 
-I am a Computer Science student interested in building practical software solutions using modern web technologies, Python, and artificial intelligence. I enjoy exploring new technologies, developing applications, and improving my programming and problem-solving skills through hands-on projects.
+I am a Computer Science student passionate about building practical software solutions using modern web technologies, Python, and artificial intelligence. I enjoy developing applications, exploring emerging technologies, solving programming problems, and transforming ideas into useful digital products.
 
-[GitHub Profile](https://github.com/shreejaashriya1-commits) | [Contact Me](mailto:shreejaashriya1@gmail.com)
+[GitHub Profile](https://github.com/shreejaashriya1-commits) | [Email](mailto:shreejaashriya1@gmail.com)
 
 ---
 
 ## ABOUT ME
 
-My primary interests are software development, artificial intelligence, and full-stack application development. I focus on understanding how technologies work together to solve real-world problems and create useful applications.
-
-- Developing web applications with modern frontend and backend technologies.
-- Exploring AI-powered applications and locally running language models.
+- Interested in full-stack web development, artificial intelligence, and software engineering.
+- Building web applications with modern frontend and backend technologies.
+- Exploring AI-powered applications, language models, and image-generation techniques.
 - Practising programming fundamentals and improving problem-solving skills.
-- Learning to build reliable, maintainable, and user-friendly software.
-- Applying technical knowledge through academic and personal projects.
+- Focused on writing maintainable code and developing reliable, user-friendly applications.
+- Continuously learning through academic projects and hands-on development.
+
+---
 
 ## TECHNICAL SKILLS
 
-### Programming Languages
+**Programming Languages**
+- Python
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
-**Python:** Used for application logic, API integration, and AI-related projects.
+**Frontend Development**
+- React
+- Next.js
+- Tailwind CSS
+- Responsive Web Design
+- GSAP Animations
 
-**TypeScript:** Used for developing structured, type-safe web applications.
+**Backend and Database**
+- Supabase
+- REST API Integration
+- HTTP Requests
+- JSON
 
-**HTML and CSS:** Used to create and style responsive web interfaces.
+**AI and Machine Learning**
+- Ollama
+- Phi-3 Language Model
+- Hugging Face Transformers
+- Hugging Face Diffusers
+- PyTorch
+- Gradio
+- Image Generation
 
-### Frameworks and Development Tools
+**Tools and Platforms**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
-**React and Next.js:** Used to build component-based user interfaces and full-stack web applications.
+---
 
-**Tailwind CSS:** Used to develop responsive layouts and consistent interface designs.
+## POPULAR PROJECTS
 
-**Gradio:** Used to create interactive web interfaces for Python applications.
+These projects highlight my work in full-stack development, AI applications, and Python-based experimentation.
 
-**Git and GitHub:** Used for source-code management, version control, and project collaboration.
+### 1. HealthTwin AI — AI Healthcare Platform
 
-### Artificial Intelligence and Databases
+An AI-powered healthcare application focused on connecting health assessments, personalized health insights, and doctor-oriented workflows. The project explores how AI and modern web technologies can support a more organized digital healthcare experience.
 
-**Phi-3:** A language model explored for conversational AI applications.
+**Key Areas:** Health assessments, dashboard workflows, healthcare insights, and web application development.
 
-**Ollama:** Used to run and interact with language models locally.
+**Technologies:** Next.js, TypeScript, React, and modern web technologies.
 
-**Supabase:** Used for backend services, database integration, and application development.
+**Repository:** [HealthTwin AI](https://github.com/shreejaashriya1-commits/MEDIAISSIT-AI)
 
-**Requests and JSON:** Used for HTTP API communication and structured data exchange in Python.
+### 2. Haven Estate — Real Estate Platform
 
-## PROJECTS
+A modern real estate platform designed to provide a premium property-browsing experience. The project focuses on responsive interfaces, property presentation, reusable components, and backend integration.
 
-### 1. Real Estate Platform
+**Key Areas:** Property listings, modern UI design, responsive layouts, and database integration.
 
-A web application designed to provide a modern property browsing experience. The project focuses on presenting property information through an organized interface and integrating backend services to support application functionality.
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase, and React.
 
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase.
+**Repository:** [Haven Estate](https://github.com/shreejaashriya1-commits/real-estate)
 
-[View Source Code](https://github.com/shreejaashriya1-commits/real-estate)
+### 3. PRINTPRO — Printing Management Application
 
-### 2. AI Healthcare Assistant
+An enterprise-oriented printing management application designed to organize product browsing and order-related workflows. Its planned and implemented areas include authentication, role-based access, product management, cart functionality, and order tracking.
 
-An AI-powered healthcare application designed to support symptom analysis and provide health-related insights. The project explores how AI can be integrated into an application to make health information more accessible to users.
+**Key Areas:** User access management, product browsing, cart, order tracking, and responsive design.
 
-**Focus Areas:** AI integration, healthcare application development, and user-friendly interfaces.
+**Technologies:** Web technologies, Supabase, and GSAP.
 
-[View Source Code](https://github.com/shreejaashriya1-commits/MEDIAISSIT-AI)
+**Repository:** [PRINTPRO](https://github.com/shreejaashriya1-commits/PRINTPRO)
 
-### 3. Local AI Chatbot Using Phi-3 and Ollama
+### 4. Local AI Chatbot — Phi-3 and Ollama
 
-A conversational chatbot designed to generate responses using the Phi-3 language model running locally through Ollama. Python handles the backend logic and communicates with the Ollama API using HTTP requests and JSON, while Gradio provides the interactive chat interface.
+A Python-based conversational chatbot that uses the Phi-3 language model through a locally running Ollama service. Gradio provides an interactive interface, while Python requests communicate with the local model API.
 
-The project explores local language-model execution and reduces dependence on cloud-based AI inference services.
+**Key Features**
+- Conversational responses from a locally running language model.
+- Integration with the Ollama API using HTTP requests and JSON.
+- Interactive chatbot interface using Gradio.
+- Exploration of local language-model inference.
 
-**Technologies:** Python, Phi-3, Ollama, Requests, JSON, Gradio.
+**Technologies:** Python, Phi-3, Ollama, Gradio, Requests, and JSON.
 
-**Key Features:**
-- Generates responses using a locally running language model.
-- Provides a simple interface for interacting with the chatbot.
-- Connects Python application logic to Ollama through its HTTP API.
-- Explores local AI inference without requiring a cloud AI API for model responses.
+**Repository:** [LocalAIchatbot](https://github.com/shreejaashriya1-commits/LocalAIchatbot)
+
+### 5. AI Character Design and Diagram Experiments
+
+A Jupyter Notebook project exploring AI-assisted character design, text-to-image generation, diagram creation, and graph analysis.
+
+**Key Features**
+- Character descriptions and image-prompt generation.
+- Experiments with language models and diffusion models.
+- Entity-relationship diagram generation.
+- Network visualization and shortest-path analysis.
+
+**Technologies:** Python, Jupyter Notebook, Transformers, Diffusers, PyTorch, Graphviz, NetworkX, and Matplotlib.
+
+**Repository:** [AI Character Design Project](https://github.com/shreejaashriya1-commits/ai-character-design-project)
+
+### 6. SaaS Application
+
+A software-as-a-service project exploring modern application development and web technologies.
+
+**Repository:** [saas](https://github.com/shreejaashriya1-commits/saas)
+
+### 7. Parker Management
+
+A TypeScript-based management application focused on organizing information and developing application functionality.
+
+**Technologies:** TypeScript and web development tools.
+
+**Repository:** [Parker Management](https://github.com/shreejaashriya1-commits/Parker-Management-)
+
+### 8. Shoe Store
+
+A web development project focused on presenting shoe products through an organized storefront and user-friendly interface.
+
+**Repository:** [Shoe Store](https://github.com/shreejaashriya1-commits/Shoe-Store-)
+
+---
 
 ## CURRENT LEARNING GOALS
 
-I am continuously working to strengthen my technical foundation and expand my development experience.
+- Strengthening Python and programming fundamentals.
+- Improving data structures and algorithms knowledge.
+- Developing full-stack applications with Next.js and TypeScript.
+- Exploring practical applications of AI and machine learning.
+- Improving debugging, testing, deployment, and software maintenance skills.
+- Building projects that demonstrate practical problem-solving and technical growth.
 
-- Improve Python programming and data structures and algorithms.
-- Develop stronger full-stack application development skills.
-- Explore practical applications of artificial intelligence and machine learning.
-- Learn software engineering practices, including debugging, testing, and maintainable code.
-- Build projects that demonstrate technical understanding and practical problem-solving.
+---
 
-## GITHUB ACTIVITY
+## GITHUB STATISTICS
 
-I use GitHub to maintain my projects, track development progress, and showcase the technologies I am learning.
+### GitHub Overview
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shreejaashriya1-commits&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreejaashriya1-commits&show_icons=true&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaashriya1-commits&layout=compact&hide_border=true&theme=transparent)
+### Most Used Languages
 
-## CONTACT
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaashriya1-commits&layout=compact&langs_count=8&hide_border=true)
 
-I am interested in learning opportunities, collaborative projects, and connecting with other developers who enjoy building practical software solutions.
+### Contribution Activity
 
-**GitHub:** [shreejaashriya1-commits](https://github.com/shreejaashriya1-commits)
+[View My GitHub Contributions](https://github.com/shreejaashriya1-commits?tab=overview)
 
-**Email:** [shreejaashriya1@gmail.com](mailto:shreejaashriya1@gmail.com)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreejaashriya1-commits&hide_border=true)
+
+---
+
+## CONNECT WITH ME
+
+I am interested in learning opportunities, collaborative development, and connecting with people who enjoy building practical technology solutions.
+
+- **GitHub:** [shreejaashriya1-commits](https://github.com/shreejaashriya1-commits)
+- **Email:** [shreejaashriya1@gmail.com](mailto:shreejaashriya1@gmail.com)
 
 ---
 
