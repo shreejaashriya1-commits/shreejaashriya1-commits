@@ -163,20 +163,27 @@ A web development project focused on presenting shoe products through an organiz
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaashriya1-commits&layout=compact&langs_count=8&hide_border=true)
 
-### Contribution Activity
+## CONTRIBUTION ACTIVITY
 
-[View My GitHub Contributions](https://github.com/shreejaashriya1-commits?tab=overview)
+View my recent commits, repositories, and contribution history on GitHub.
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreejaashriya1-commits&hide_border=true)
+**[View My GitHub Contributions](https://github.com/shreejaashriya1-commits?tab=overview)**
+
+**[Explore My Repositories](https://github.com/shreejaashriya1-commits?tab=repositories)**
 
 ---
 
 ## CONNECT WITH ME
 
-I am interested in learning opportunities, collaborative development, and connecting with people who enjoy building practical technology solutions.
+I am interested in learning opportunities, collaborative projects, and connecting with developers who enjoy building practical software solutions.
 
 - **GitHub:** [shreejaashriya1-commits](https://github.com/shreejaashriya1-commits)
 - **Email:** [shreejaashriya1@gmail.com](mailto:shreejaashriya1@gmail.com)
+
+---
+
+*Learning continuously. Building practically. Improving consistently.*
+
 
 ---
 
