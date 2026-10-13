@@ -185,6 +185,3 @@ I am interested in learning opportunities, collaborative projects, and connectin
 *Learning continuously. Building practically. Improving consistently.*
 
 
----
-
-*Learning continuously. Building practically. Improving consistently.*
